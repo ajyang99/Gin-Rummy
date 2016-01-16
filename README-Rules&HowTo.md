@@ -32,8 +32,8 @@ How to Start: You first decide whether or not you want the faced-up card. If so,
 How to Draw/Discard: Then you play the game, by drawing a card first from either the stock pile or the discard pile and then discard a card from your hand. Thus you always have 10 cards in your hand. (Note that if you draw from the discard pile, you can't discard the card you just draw; but if you draw from the stock pile, you can discard the card you just draw immediately if you don't like it.)
 
 How to Sort: There is a "sort" on the button that can do the sorting for you by putting the "melds" on the left and the deadwoods on the right. The algorithm was written in such a way that the most optimized result is guranteed. If you want to sort manually, you can
-click on card A first, and then on Card B, then Card A will be put right on the right of Card B.
+click on card A first, and then on Card B, then Card A will be put just on the right of Card B.
 
-How to Knock: When you are allowed to "knock", there will be a grey box on the right, and you will just discard the card inside the box by clicking on it.
+How to Knock: When you are allowed to "knock", there will be a grey box on the right, and you can just discard the card inside the box by clicking on it.
 
 Enjoy!
