@@ -1,5 +1,5 @@
 # Gin-Rummy
-Recreation of Classic Card Game Gin Rummy in Python
+A Sophisticated GUI Recreation of Classic Card Game Gin Rummy in Python with AI Player, Sorting, Brute-force Optimized Searching and Greedy Algorithms
 
 You can play it live here: http://www.codeskulptor.org/#user41_UxE3vLfPO1_5.py
 
