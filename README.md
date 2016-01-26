@@ -29,10 +29,10 @@ get a 20 bonus.
 
 How to Start: You first decide whether or not you want the faced-up card. If so, you take the card by single clicking on it, and then you should discard a card from your hand, by single clicking on the card you don't want, and then single clicking on the "discard pile", which is where the faced-up card was. If you don't want the card, hit the Decline button on the left and wait for the Computer Player's action.
 
-How to Draw/Discard: Then you play the game, by drawing a card first from either the stock pile or the discard pile and then discard a card from your hand. Thus you always have 10 cards in your hand. (Note that if you draw from the discard pile, you can't discard the card you just draw; but if you draw from the stock pile, you can discard the card you just draw immediately if you don't like it.)
+How to Draw/Discard: Then you play the game, by drawing a card first from either the stock pile or the discard pile and then discarding a card from your hand. Thus you always have 10 cards in your hand. (Note that if you draw from the discard pile, you can't discard the card you just draw; but if you draw from the stock pile, you can discard the card you just draw immediately if you don't like it.)
 
-How to Sort: There is a "sort" on the button that can do the sorting for you by putting the "melds" on the left and the deadwoods on the right. The algorithm was written in such a way that the most optimized result is guranteed. If you want to sort manually, you can
-click on card A first, and then on Card B, then Card A will be put just on the right of Card B.
+How to Sort: There is a "sort" on the button that can do the sorting for you by putting the "melds" on the left and the "deadwoods" on the right. The algorithm was written in such a way that the most optimized result is guranteed. If you want to sort manually, you can
+click on card A first, and then on Card B, then Card A will be placed just on the right of Card B.
 
 How to Knock: When you are allowed to "knock", there will be a grey box on the right, and you can just discard the card inside the box by clicking on it.
 
