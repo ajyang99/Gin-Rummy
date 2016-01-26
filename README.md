@@ -13,7 +13,7 @@ Rules Synopsis:
 - If a card is in a meld, then it doesn't count as a "deadwood". (However, every card can only be allowed in ONE meld: eg.
 if you have "Heart 3", "Heart 4", "Heart 5", "Diamond 3", "Square 3" at the same time, then your deadwoods are either "Heart 4" and 
 "Heart 5", or "Diamond 3" and "Square 3" - although every card can be arranged to be in a meld, since "Heart 3" can only be used once,
-there are always two deadwoods.
+there are always two deadwoods.)
 - Deadwood Value = value of all the deadwoods in the hand of one player
 
 - In this game, each player has 10 cards. Each time each player first draws a card from either the stock or the discard pile, and then
